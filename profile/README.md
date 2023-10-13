@@ -2,7 +2,7 @@
 ### Promo Développeur Web et Web Mobile  
 Du 25 Septembre 2023 au 04 Juin 2024
 Période de stage en entreprise : 19 Février au 17 Mai 2024
-#
+
 
 
 ## Languages & Tools 
@@ -25,8 +25,8 @@ Période de stage en entreprise : 19 Février au 17 Mai 2024
 # CCP1 : Front - End    
 Développer la partie Front-End d'une application Web   
 ou Web Mobile en intégrant les recommandations de sécurité
-
-
+| Developer | GitHub |
+| :---- |:-------:|
 <!--
 
 **Here are some ideas to get you started:**

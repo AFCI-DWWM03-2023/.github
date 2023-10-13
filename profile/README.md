@@ -25,9 +25,9 @@ Période de stage en entreprise : 19 Février au 17 Mai 2024
 # CCP1 : Front - End    
 Développer la partie Front-End d'une application Web   
 ou Web Mobile en intégrant les recommandations de sécurité
-| Developer | GitHub | PortFolio |
-| :---- |:-------:|:-------:|
-| |![imgGit](./profile/img/git.svg)&nbsp;|![imgFigma](./profile/img/figma.svg)&nbsp;&nbsp;![imgHtml](./profile/img/html.svg) &nbsp;&nbsp;![imgCSS](./profile/img/css.svg)&nbsp;&nbsp;|
+| Developer | GitHub | PortFolio | Escapade|
+| :---- |:-------:|:-------:|:-------:|
+| |![imgGit](./profile/img/git.svg)&nbsp;|![imgFigma](./profile/img/figma.svg)&nbsp;&nbsp;![imgHtml](./profile/img/html.svg) &nbsp;&nbsp;![imgCSS](./profile/img/css.svg)&nbsp;&nbsp;|![imgHtml](./profile/img/html.svg) &nbsp;&nbsp;![imgCSS](./profile/img/css.svg)&nbsp;&nbsp;|
 | Théo  | <a href="">🔗</a> | 
 | Enzo  | <a href="">🔗</a> |
 | Clad  | <a href="">🔗</a> |

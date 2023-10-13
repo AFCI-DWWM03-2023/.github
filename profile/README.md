@@ -4,6 +4,7 @@ Du 25 Septembre 2023 au 04 Juin 2024
 Période de stage en entreprise : 19 Février au 17 Mai 2024
 <br>
 
+
 ## Languages & Tools 
 ![imgGit](./profile/img/git.svg)&nbsp;&nbsp;
 ![imgVscode](./profile/img/vscode.svg)&nbsp;&nbsp;

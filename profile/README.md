@@ -27,8 +27,14 @@ Développer la partie Front-End d'une application Web
 ou Web Mobile en intégrant les recommandations de sécurité
 | Developer | GitHub |
 | :---- |:-------:|
-<!--
+| |![imgGit](./profile/img/git.svg)&nbsp;  |
 
+
+
+
+
+
+<!--
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?

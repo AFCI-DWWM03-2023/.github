@@ -5,6 +5,20 @@ Période de stage en entreprise : 19 Février au 17 Mai 2024
 
 
 ## Languages & Tools 
+![imgGit](./profile/img/git.svg)&nbsp;&nbsp;
+![imgVscode](./profile/img/vscode.svg)&nbsp;&nbsp;
+![imgFigma](./profile/img/figma.svg)&nbsp;&nbsp;
+![imgHtml](./profile/img/html.svg) &nbsp;&nbsp;
+![imgCSS](./profile/img/css.svg)&nbsp;&nbsp;
+![imgLess](./profile/img/less-1.svg)&nbsp;&nbsp; 
+![imgPhp](./profile/img/php2.svg)&nbsp;&nbsp;
+![imgSymfony](./profile/img/symfony.svg)&nbsp;&nbsp;
+![imgBootStrap](./profile/img/bootstrap.svg)&nbsp;&nbsp; 
+![imgJs](./profile/img/javascript.svg)&nbsp;&nbsp;
+![imgReact](./profile/img/react.svg)&nbsp;&nbsp;
+![imgMySql](./profile/img/mysql1.svg)&nbsp;&nbsp;
+![imgPhpMyAdmin](./profile/img/PhpMyAdmin.svg)&nbsp;&nbsp;
+![imgWordpress](./profile/img/wordpress.svg) 
 <!--
 
 **Here are some ideas to get you started:**

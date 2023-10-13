@@ -28,7 +28,8 @@ ou Web Mobile en intégrant les recommandations de sécurité
 | Developer | GitHub |
 | :---- |:-------:|
 | |![imgGit](./profile/img/git.svg)&nbsp;  |
-| Jayson  | <a href="https://github.com/Gazon-unlimited">🔗</a> | 
+| Théo  | <a href="">🔗</a> | 
+| Théo  | <a href="">🔗</a> |
 
 
 

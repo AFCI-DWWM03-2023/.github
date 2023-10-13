@@ -29,7 +29,16 @@ ou Web Mobile en intégrant les recommandations de sécurité
 | :---- |:-------:|
 | |![imgGit](./profile/img/git.svg)&nbsp;  |
 | Théo  | <a href="">🔗</a> | 
-| Théo  | <a href="">🔗</a> |
+| Enzo  | <a href="">🔗</a> |
+| Clad  | <a href="">🔗</a> |
+| Julia  | <a href="">🔗</a> |
+| Adrien | <a href="">🔗</a> |
+| Steven  | <a href="">🔗</a> |
+| Quentin  | <a href="">🔗</a> |
+| Mohamed  | <a href="">🔗</a> |
+| Raphaël S  | <a href="">🔗</a> |
+| Bastien  | <a href="">🔗</a> |
+| Raphaël V  | <a href="">🔗</a> |
 
 
 

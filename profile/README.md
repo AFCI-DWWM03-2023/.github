@@ -1,7 +1,7 @@
 #DWWM03 - 2023 👋
 ### Promo Développeur Web et Web Mobile  
 Du 25 Septembre 2023 au 04 Juin 2024
-Période de stage en entreprise : 19 Février au 17 Mai 2024</br>
+Période de stage en entreprise : 19 Février au 17 Mai 2024 </br>
 
 
 ## Languages & Tools 

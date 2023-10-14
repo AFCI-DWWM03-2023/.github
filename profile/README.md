@@ -18,8 +18,7 @@ Période de stage en entreprise : 19 Février au 17 Mai 2024
 ![imgJs](./profile/img/javascript.svg)&nbsp;&nbsp;
 ![imgReact](./profile/img/react.svg)&nbsp;&nbsp;
 ![imgMySql](./profile/img/mysql1.svg)&nbsp;&nbsp;
-![imgPhpMyAdmin](./profile/img/PhpMyAdmin.svg)&nbsp;&nbsp;
-![imgWordpress](./profile/img/wordpress.svg) 
+ 
 
 
 # CCP1 : Front - End    
